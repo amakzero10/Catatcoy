@@ -1,0 +1,6 @@
+{
+  "name": "catat coy",
+  "description": "Aplikasi tracker keuangan dengan fitur rekap 7 hari dan ekspor laporan PDF",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
